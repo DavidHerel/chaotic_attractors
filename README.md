@@ -1,2 +1,2 @@
 # chaotic_attractors
-Visualization of chaos
+Visualization of chaos in python
